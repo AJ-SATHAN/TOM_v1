@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img border-radius: 15px src="https://i.imgur.com/RwKAHYZ.jpeg" width="200" height="200"/>
+  <img border-radius: 15px src="IMG_20211104_173112_744.jpg" width="200" height="200"/>
   <p align="center">
 <a href="#"><img title="TOM_v1" src="https://img.shields.io/badge/TOM_v1-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
